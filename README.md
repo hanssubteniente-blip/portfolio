@@ -31,3 +31,4 @@ Management Trainee at Metro Pacific Tollways Corporation
 
 ### Projects
 - A facility location models approach to fire station expansion in Metro Manila
+[Publication] (https://animorepository.dlsu.edu.ph/etdb_math/38/)

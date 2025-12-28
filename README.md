@@ -20,5 +20,14 @@ Management Trainee at Metro Pacific Tollways Corporation
 - Developed an AI chatbot to enhance knowledge access, improving user support and engagement.
 - Researched and implemented emerging technologies (ArcGIS Pro, OutSystems, AI analytics) to drive innovative solutions.
 
+### Certifications
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Power Platform Fundamentals (PL-900)
+- Microsoft Office Specialist Awardee
+- Cisco Data Analytics Essentials
+- Certified Google Data Analytics Professional
+
 ### Projects
 - A facility location models approach to fire station expansion in Metro Manila

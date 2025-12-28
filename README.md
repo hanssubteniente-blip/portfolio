@@ -12,7 +12,7 @@ Actuarial Valuation Intern at Willis Towers Watson
 - Simulated client work deliverables, applying technical and analytical skills in real-world scenarios.
 - Performed data cleaning, validation, and financial reporting to ensure accuracy and compliance.
 - Developed skills in valuation calculation, data processing, and financial analysis.
-- 
+  
 Management Trainee at Metro Pacific Tollways Corporation
 - Analyzed millions of RFID reads and traffic datasets using Spark, Zeppelin, Python, and R, enabling data-driven decision-making.
 - Designed interactive dashboards and ERDs, improving enterprise architecture visibility.

@@ -29,6 +29,8 @@ Management Trainee at Metro Pacific Tollways Corporation
 - Cisco Data Analytics Essentials
 - Certified Google Data Analytics Professional
 
-### Projects
-- A facility location models approach to fire station expansion in Metro Manila
+## Projects
+### A facility location models approach to fire station expansion in Metro Manila
 [Publication](https://animorepository.dlsu.edu.ph/etdb_math/38/)
+
+In this paper, it showed how facility location models can be used to identify the number of additional fire stations which can help in dealing with the rising cases of fire incidents. The study will utilize facility location models, specifically the Set Covering Location Problem (SCLP) and the Maximal Coverage Location Problem (MCLP). The SCLP model guarantees complete coverage using the fewest facilities possible while the MCLP model aims to cover the maximum demand using a limited number of facilities. The National Capital Region (NCR) has an increasing rate of fire incidents in the recent months which is the reason for being the focus of this study and the analysis will use fire incident data from 2020 which is the most recent accessible data provided by the Bureau of Fire Protection of the Philippines to identify the number of additional fire stations across Metro Manila.
